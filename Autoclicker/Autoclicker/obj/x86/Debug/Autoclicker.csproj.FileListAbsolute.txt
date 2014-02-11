@@ -1,0 +1,11 @@
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.csprojResolveAssemblyReference.cache
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.Form1.resources
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.Properties.Resources.resources
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.csproj.GenerateResource.Cache
+C:\Projects\Autoclicker\Autoclicker\bin\Debug\Autoclicker.exe
+C:\Projects\Autoclicker\Autoclicker\bin\Debug\Autoclicker.pdb
+C:\Projects\Autoclicker\Autoclicker\bin\Debug\InputSimulator.dll
+C:\Projects\Autoclicker\Autoclicker\bin\Debug\InputSimulator.pdb
+C:\Projects\Autoclicker\Autoclicker\bin\Debug\InputSimulator.xml
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.exe
+C:\Projects\Autoclicker\Autoclicker\obj\x86\Debug\Autoclicker.pdb
